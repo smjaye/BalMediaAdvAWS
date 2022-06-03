@@ -7,7 +7,7 @@ import balmedadv_locators as locators
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import Select # ----------add this import for drop down lists
 from selenium.webdriver import Keys
-from webdriver_manager.chrome import ChromeDriverManager
+# from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 
 
